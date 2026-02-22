@@ -374,7 +374,7 @@ class Llama(BaseLanguageModel):
             import re
             
             client = openai.OpenAI(
-                api_key="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"  # 替换为您的 OpenAI API 密钥
+                api_key="sk-"  # 替换为您的 OpenAI API 密钥
             )   
             
             formatted_prompt = f"{llm_input}\n\nPlease provide your answer in a simple format without any bullet points, numbers, or symbols. If multiple answers exist, separate them with line breaks only."

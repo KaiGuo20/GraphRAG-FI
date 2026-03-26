@@ -54,13 +54,6 @@ CUDA_VISIBLE_DEVICES=0 ./scripts/rog-reasoning.sh FI 0.2
 - **WebQSP**: Web Questions Semantic Parses dataset
 - **CWQ**: ComplexWebQuestions dataset
 
-## Supported Models
-
-- RoG (Reasoning on Graphs)
-- GPT-3.5 / GPT-4
-- Llama 2
-- Alpaca
-- FLAN-T5
 
 ## Acknowledgements
 
